@@ -1,0 +1,4 @@
+market_cap_category,coin_count,average_price,median_price,average_volatility,average_24h_change
+Large Cap,13,6389.59,1.41,10.62,0.17
+Mid Cap,60,171.56,1.0,9.11,-1.27
+Small Cap,27,10.6,1.12,10.55,-1.06
